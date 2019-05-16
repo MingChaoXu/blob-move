@@ -6,3 +6,9 @@ npm install --save hexo-generator-index
 npm install --save hexo-generator-archive
 npm install --save hexo-generator-tag
 npm install hexo-generator-searchdb --save
+npm install hexo-tag-cloud@^2.0.* --save
+npm install gulp --save
+npm install gulp-htmlclean --save
+npm install gulp-htmlmin --save
+npm install --save gulp-minify-css
+npm install --save gulp-uglify
